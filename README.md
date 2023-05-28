@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Nícolle</h1>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nanicka;I+am+a+Computer+engineering+student+at+UNIVASF;Brazilian+Girl;Starting+on+Coding;Bot+Dev%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nanicka;I+am+a+Computer+engineering+student+at+UNIVASF;Learning+how+to+Code;Bot+Dev%3C3"></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.marianicolle@gmail.com**
 
-- ⚡ Fun fact **I'm still upgrading my profile.**
+- ⚡ Fun fact **I'm still learning some basic stuff, and i hope to documentate my progress here!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
